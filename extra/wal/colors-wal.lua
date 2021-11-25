@@ -1,7 +1,7 @@
 local M = {{}}
 
-M.foreground = "{foreground}"
-M.background = "{background}"
+M.fg = "{foreground}"
+M.bg = "{background}"
 M.cursor     = "{cursor}"
 
 M.color0  = "{color0}"
